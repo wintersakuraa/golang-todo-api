@@ -1,0 +1,8 @@
+port: "5005"
+
+db:
+  username: "root"
+  host: "localhost"
+  port: "8889"
+  dbname: "golang_todo_api"
+  query: "multiStatements=true"
